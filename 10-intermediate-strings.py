@@ -15,3 +15,5 @@ if 'c' in fruit:
     print('c is present')
 
 print(dir(fruit))
+
+print(fruit.isdigit())
